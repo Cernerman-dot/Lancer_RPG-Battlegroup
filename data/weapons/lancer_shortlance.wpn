@@ -1,0 +1,58 @@
+{
+  
+  "collisionClass": "RAY",
+  "collisionClassByFighter": "RAY_FIGHTER",
+  "coreColor": [
+    255,
+    255,
+    255,
+    255
+  ],
+  "fireSoundTwo": "tachyon_lance_fire",
+  "fringeColor": [
+    85,
+    25,
+    215,
+    255
+  ],
+  "glowColor": [
+    165,
+    100,
+    255,
+    235
+  ],
+  "hardpointAngleOffsets": [
+    0
+  ],
+  "hardpointGlowSprite": "graphics/weapons/shortlance_hardpoint_glow.png",
+  "hardpointOffsets": [
+    16.5,
+    0
+  ],
+  "hardpointSprite": "graphics/weapons/shortlance_hardpoint_base.png",
+  "hitGlowRadius": 0,
+  "id": "lancer_shortlance",
+  "pierceSet": [
+    PROJECTILE_FF,
+    PROJECTILE_NO_FF,
+    PROJECTILE_FIGHTER,
+    MISSILE_FF,
+    MISSILE_NO_FF
+  ],
+  "pixelsPerTexel": 5,
+  "size": "LARGE",
+  "specClass": "beam",
+  "textureScrollSpeed": 292,
+  "textureType": ROUGH,
+  "turretAngleOffsets": [
+    0
+  ],
+  "turretGlowSprite": "graphics/weapons/shortlance_turret_glow.png",
+  "turretOffsets": [
+    11.5,
+    0
+  ],
+  "turretSprite": "graphics/weapons/shortlance_turret_base.png",
+  "type": "ENERGY",
+  "width": 25
+}

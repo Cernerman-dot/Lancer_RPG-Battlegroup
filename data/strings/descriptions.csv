@@ -1,0 +1,5 @@
+id,type,text1,text2,text3,notes
+lancer_Caspian_Sea,SHIP,"The Caspian Sea-class frigate has been continually upgraded over it's centuries of service, been one of the few designs in service through the Second Committee to the current day. 
+Like all GMS products, the Caspian Sea is reliable and easy to service, a dependable lineship that is  capable in both fleet combat and smaller-scale engagements. It is equipped with an advanced sensor suite that allows it to pick out a target for the rest of the fleet, providing precision locks on key structural strongpoints.",,,
+lancer_shortlance,WEAPON,"The reactor technology that spawned spinally-mounted long-cycle ship weapons also ushered in an age of short-pulse energy weapons. Short-cycle lance batteries are an archetypal example of these. Though mid-ranged, they are accurate and quick at boring holes through hull and armor plate, and can even put some pressure on energy shielding. ",,,
+lancer_targetlock,SHIP_SYSTEM,A temporary redirection of computing power and sensor arrays towards a particular enemy vessel allows for the creation and broadcast of optimised firing solutions throughout the fleet.,,,

@@ -1,0 +1,175 @@
+{
+    "hullName": "Caspian Sea",
+    "hullId": "lancer_caspian_sea",
+    "hullSize": "CRUISER",
+    "style": "HIGH_TECH",
+    "spriteName": "graphics/ships/CaspianSea/caspiansea_hardpoint.png",
+    "height": 254,
+    "width": 86,
+    "center": [
+        43, 127
+    ],
+    "collisionRadius": 173,
+    "coversColor": "128,128,128,255",
+    "shieldCenter": [
+        0, 0
+    ],
+    "shieldRadius": 163,
+    "viewOffset": 0,
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 002",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 267,
+            "angle": 0,
+            "locations": [
+                      77,        0
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "LARGE",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 264,
+            "angle": 0,
+            "locations": [
+                      42,        0
+            ]
+        },
+        {
+            "id": "WS 006",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "renderOrderMod": 1,
+            "arc": 105,
+            "angle": 57.5,
+            "locations": [
+                       5,       22
+            ]
+        },
+        {
+            "id": "WS 007",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "renderOrderMod": 1,
+            "arc": 105,
+            "angle": 302.5,
+            "locations": [
+                       5,      -22
+            ]
+        },
+        {
+            "id": "WS 008",
+            "size": "MEDIUM",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "renderOrderMod": 1,
+            "arc": 183,
+            "angle": 90,
+            "locations": [
+                     -12,       25
+            ]
+        },
+        {
+            "id": "WS 009",
+            "size": "MEDIUM",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "renderOrderMod": 1,
+            "arc": 183,
+            "angle": 270,
+            "locations": [
+                     -12,      -25
+            ]
+        },
+        {
+            "id": "WS 012",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 102,
+            "angle": 228.5,
+            "locations": [
+                     -29,      -22
+            ]
+        },
+        {
+            "id": "WS 013",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 102,
+            "angle": 131.5,
+            "locations": [
+                     -29,       22
+            ]
+        },
+        {
+            "id": "WS 000",
+            "size": "LARGE",
+            "type": "UNIVERSAL",
+            "mount": "HARDPOINT",
+            "arc": 15,
+            "angle": 0,
+            "locations": [
+                   110.5,        0
+            ]
+        },
+        {
+            "id": "WS 001",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 243,
+            "angle": 180,
+            "locations": [
+                     -93,        0
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -123.5, 1
+            ],
+            "length": 42.5,
+            "width": 30,
+            "angle": 180,
+            "contrailSize": 12,
+            "style": "HIGH_TECH"
+        }
+    ],
+    "bounds": [
+          -127.5,      -14,
+          -108.5,      -27,
+             -78,      -28,
+           -36.5,      -25,
+             -10,      -33,
+        
+             8.5,    -25.5,
+              29,      -25,
+            79.5,    -25.5,
+              83,      -20,
+           118.5,      -19,
+        
+           118.5,       19,
+              83,       20,
+            79.5,     25.5,
+              29,       25,
+             8.5,     25.5,
+        
+             -10,       33,
+           -36.5,       25,
+             -78,       28,
+          -108.5,       27,
+          -127.5,       14
+    # 20 points total.
+    ]
+}

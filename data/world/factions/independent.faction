@@ -1,0 +1,14 @@
+{
+    "hullFrequency":{
+        "hulls":{
+            "lancer_caspian_sea":0.1,
+           
+        },
+    },
+	"knownShips":{
+		"tags":["ind", "independent"],
+		"hulls":[
+		"lancer_caspian_sea",
+		],
+	},
+},
