@@ -3,7 +3,7 @@
   "name": "Lancer RPG/Battlegroup", # Displayed to the player
   "author": "sturmogre",
   "utility": false,
-  "version": { "major": '0', "minor": '01', "patch": '0' },
+  "version": { "major": '0', "minor": '0', "patch": '1' },
   "description": "",
   "gameVersion": "0.98a-RC5",
   "jars": [ "jars/Template.jar" ],
