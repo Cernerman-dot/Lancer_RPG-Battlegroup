@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="JaydeePiracy7" level="project" />
+    <orderEntry type="library" name="jars2" level="project" />
+    <orderEntry type="library" name="ANUBIS" level="project" />
+    <orderEntry type="library" name="starsector-core" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../starsector-core/starfarer.api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="SpecialUpgrades" level="project" />
+    <orderEntry type="library" name="jars18" level="project" />
+    <orderEntry type="library" name="jars" level="project" />
+    <orderEntry type="library" name="jars6" level="project" />
+    <orderEntry type="library" name="jars19" level="project" />
+    <orderEntry type="library" name="jars21" level="project" />
+    <orderEntry type="library" name="jars4" level="project" />
+    <orderEntry type="library" name="Lancer_RPG-Battlegroup" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../starsector-core/lwjgl.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../starsector-core/lwjgl_util.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../starsector-core/starfarer.api.zip!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module" module-name="Tiandong Heavy Industries-1.2.1a" />
+    <orderEntry type="module" module-name="Anubis-1.6.0" />
+    <orderEntry type="module" module-name="Mayasuran Navy" />
+    <orderEntry type="library" exported="" name="ExerelinCore" level="project" />
+    <orderEntry type="library" exported="" name="LazyLib" level="project" />
+  </component>
+</module>

@@ -47,7 +47,7 @@
             "type": "HYBRID",
             "mount": "TURRET",
             "renderOrderMod": 1,
-            "arc": 105,
+            "arc": 114,
             "angle": 57.5,
             "locations": [
                        5,       22
@@ -59,7 +59,7 @@
             "type": "HYBRID",
             "mount": "TURRET",
             "renderOrderMod": 1,
-            "arc": 105,
+            "arc": 114,
             "angle": 302.5,
             "locations": [
                        5,      -22

@@ -1,0 +1,2 @@
+name,id,tags,rarity,base price,stack size,cargo space,icon,sound id,sound id drop,plugin,plugin params,desc,order
+GMS Blueprint Package,lancer_gms_package,package_bp,1,100000,1000,1,graphics/icons/cargo/lancer_gms_package.png,ui_chip_pickup,ui_bp_package_drop,com.fs.starfarer.api.campaign.impl.items.MultiBlueprintItemPlugin,lancer_gms_package,A blueprint chip containing a number of GMS-designed ships and weapons.,69

@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Template">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jars/Template.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../starsector-core/starfarer.api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../starsector-core/starfarer.api.zip!/" />
+    </SOURCES>
+  </library>
+</component>

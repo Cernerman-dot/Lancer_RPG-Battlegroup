@@ -15,7 +15,13 @@
 	#],
 	
     # This section is where we can define images that can be referenced ingame using Global.getSettings().getSpriteName("category", "name");
-	#"graphics":{
-	#	"category":{ "name":"graphics/ui/sector_age_young.png", }
-	#}
+	"designTypeColors":{
+	  "Union":[255,0,0,255],
+		},
+
+	"graphics":{
+		"blueprint_packages":{
+      		"lancer_gms_package":"graphics/icons/cargo/lancer_gms_package.png",
+       		},
+	}
 }

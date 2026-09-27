@@ -1,0 +1,91 @@
+{
+    "playableFaction":true,
+    "corvusCompatible":true,
+
+    "crewExpereinceLevelIncreaseChance":0.0,
+    "baseFleetCostMultiplier":1.0,
+    "invasionSupportFleetName":"Assault Fleet",
+    "responseFleetName":"Defense Taskforce",
+    "defenceFleetName":"Defense Fleet",
+    "positiveDiplomacyExtra":0,
+    "negativeDiplomacyExtra":0,
+    "factionsLiked":[
+	"shadow_industry", # socialism is good, actually
+	"communist_clouds",
+        "brighton", # good guys
+        "roider", # unions are good
+        "unitedpamed" # idk their deal but they're good
+        ],
+    "factionsDisliked":[
+	    "tritachyon", # stereotypical evil corporation, certainly not Pillars-compliant
+	    "hegemony", #far too Seccom adjacent
+	    "luddic_church"],
+	
+	# starting relationships are set through scripting, not here, so look in the source code if you want the whole list
+    "maxRelationships":{
+    		"luddic_path": -0.6, # weird uber luddites
+    		"luddic_church": 0.0, # ideological conflict with a theocracy
+			"tritachyon": -0.5,
+			"sindrian_diktat": -0.25 # nationalist military dictatorship, would probably get Liberation Team'ed back at home
+            }, 
+    "diplomacyPositiveChance":{
+    		"luddic_path": 0.1, # self-explanatory
+    		"luddic_church": 0.3, # still hung up on the technosatan thing, huh
+		"diableavionics": 0.4,
+    		"tritachyon": 0.1, 
+    		"SCY": 0.5}, 
+    "diplomacyNegativeChance":{
+    		"communist_clouds": 0.5, # can we like, not do terrorism (unless it's cool and good terrorism)
+		"shadow_industry": 0.2, # good guys!
+    		"tritachyon": 1.5 # yeah
+			},
+	
+    "morality":"good", 	
+    "alignments":{
+            "technocratic":1.0, # 
+            "diplomatic":0.7, # Rather war-avoidant.
+            "ideological":0.8, # Highly ideological in one way or another
+            "hierarchical":-0.6, # a fragment of a post-scarcity democratic state.
+    },
+	
+	"diplomacyTraits":["neutralist", "stalwart", "helps_allies", "low_profile"],
+	
+    "startShipsSolo":[["lancer_caspian_sea_default"]],
+    "startShipsCombatSmall":
+	[
+	["lancer_caspian_sea_default"]
+	],
+    "startShipsCombatLarge":
+	[
+	["lancer_caspian_sea_default"]
+	],
+    "startShipsSuper":
+    [
+	["lancer_caspian_sea_default"]
+    ],
+		
+    "startSpecialItems":[
+        [["lancer_gms_package", ""]]
+    ],
+	
+	"colonyExpeditionChance":1.2,	# the stars will choke with the living
+    "colonyTargetValuator":"exerelin.campaign.colony.IndustrialColonyTargetValuator",
+    
+	    "defenceStations":[
+        {"ids":["orbitalstation_high", "battlestation_high", "starfortress_high"]},
+        {"ids":["orbitalstation_mid", "battlestation_mid", "starfortress_mid"], "weight":0.2},
+    ],
+    
+    "industrySeeds":[
+        {"id":"heavyindustry", "mult":0.1},
+        {"id":"fuelprod", "mult":0.1},
+        {"id":"lightindustry", "mult":0.1},
+    ],
+    # dunno what this does, but I'll leave it in
+    "bonusSeeds":[
+        {"id":"population_upsize", "count":1},
+        {"id":"nanoforge_corrupted", "count":1},
+		{"id":"synchrotron", "count":1},
+    ],
+	
+}

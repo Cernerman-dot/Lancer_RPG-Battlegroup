@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Lancer_RPG-Battlegroup:jar">
+    <output-path>$PROJECT_DIR$/jars</output-path>
+    <root id="archive" name="Lancer_RPG-Battlegroup.jar">
+      <element id="module-output" name="Lancer_RPG-Battlegroup" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../Nexerelin-0.12.1e/jars/ExerelinCore.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../LazyLib-3.0.0/jars/LazyLib.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../starsector-core/starfarer.api.jar" path-in-jar="/" />
+      <element id="library" level="application" name="starfarer.api" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../starsector-core/lwjgl.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../starsector-core/lwjgl_util.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

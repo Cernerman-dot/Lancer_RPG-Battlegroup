@@ -1,11 +1,12 @@
 {
     "displayName": "default",
-    "fluxCapacitors": 19,
+    "fluxCapacitors": 2,
     "fluxVents": 30,
     "goalVariant": true,
     "hullId": "lancer_caspian_sea",
     "hullMods": [
-        "dedicated_targeting_core"
+        "targetingunit",
+		"advancedoptics"
     ],
     "quality": 0.0,
     "variantId": "lancer_caspian_sea_default",
@@ -14,14 +15,14 @@
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 009": "heavyburst"
+                "WS 009": "sabotpod"
             }
         },
         {
             "autofire": false,
             "mode": "LINKED",
             "weapons": {
-                "WS 008": "heavyburst"
+                "WS 008": "sabotpod"
             }
         },
         {

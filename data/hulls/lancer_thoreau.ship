@@ -1,0 +1,290 @@
+{
+    "hullName": "Thoreau",
+    "hullId": "lancer_thoreau",
+    "hullSize": "CAPITAL_SHIP",
+    "style": "HIGH_TECH",
+    "spriteName": "graphics/ships/Thoreau/lancer_thoreau.png",
+    "height": 633,
+    "width": 224,
+    "center": [
+        111, 310
+    ],
+    "collisionRadius": 325,
+    "coversColor": "",
+    "shieldCenter": [
+        4.5, 0
+    ],
+    "shieldRadius": 336,
+    "viewOffset": 0,
+    "builtInWeapons": {
+        "WS 001": "lancer_3x3"
+    },
+    "builtInWings": [],
+    "builtInModules": null,
+    "weaponSlots": [
+        {
+            "id": "WS 001",
+            "size": "LARGE",
+            "type": "BUILT_IN",
+            "mount": "HARDPOINT",
+            "arc": 10,
+            "angle": 0,
+            "locations": [
+                     305,        0
+            ]
+        },
+        {
+            "id": "WS 002",
+            "size": "MEDIUM",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 240,
+            "angle": 0,
+            "locations": [
+                   229.1,    -0.11
+            ]
+        },
+        {
+            "id": "WS 003",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 120,
+            "angle": 50,
+            "locations": [
+                  209.03,    20.88
+            ]
+        },
+        {
+            "id": "WS 004",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 120,
+            "angle": -50,
+            "locations": [
+                  209.03,   -20.88
+            ]
+        },
+        {
+            "id": "WS 005",
+            "size": "LARGE",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 240,
+            "angle": 0,
+            "locations": [
+                  108.24,     0.31
+            ]
+        },
+        {
+            "id": "WS 006",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 210,
+            "angle": 60,
+            "locations": [
+                   -5.92,    72.26
+            ]
+        },
+        {
+            "id": "WS 007",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 210,
+            "angle": -60,
+            "locations": [
+                   -5.92,   -72.26
+            ]
+        },
+        {
+            "id": "WS 008",
+            "size": "MEDIUM",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 230,
+            "angle": 130,
+            "locations": [
+                 -177.85,    43.37
+            ]
+        },
+        {
+            "id": "WS 009",
+            "size": "MEDIUM",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 230,
+            "angle": -130,
+            "locations": [
+                 -177.85,   -43.37
+            ]
+        },
+        {
+            "id": "WS 010",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 90,
+            "locations": [
+                  -22.99,    70.01
+            ]
+        },
+        {
+            "id": "WS 011",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": -90,
+            "locations": [
+                  -22.99,   -70.01
+            ]
+        },
+        {
+            "id": "WS 012",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": -90,
+            "locations": [
+                  -40.23,   -67.93
+            ]
+        },
+        {
+            "id": "WS 013",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 220,
+            "angle": -110,
+            "locations": [
+                  -57.04,    -65.9
+            ]
+        },
+        {
+            "id": "WS 014",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 200,
+            "angle": 90,
+            "locations": [
+                  -40.23,    67.93
+            ]
+        },
+        {
+            "id": "WS 015",
+            "size": "SMALL",
+            "type": "HYBRID",
+            "mount": "TURRET",
+            "arc": 220,
+            "angle": 110,
+            "locations": [
+                  -57.04,     65.9
+            ]
+        },
+        {
+            "id": "WS 016",
+            "size": "MEDIUM",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 240,
+            "angle": 0,
+            "locations": [
+                  178.65,    -0.07
+            ]
+        },
+        {
+            "id": "WS 017",
+            "size": "LARGE",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 170,
+            "angle": 69.5,
+            "locations": [
+                   41.82,    61.75
+            ]
+        },
+        {
+            "id": "WS 018",
+            "size": "LARGE",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 170,
+            "angle": -69.5,
+            "locations": [
+                   41.82,   -61.75
+            ]
+        },
+        {
+            "id": "WS 019",
+            "size": "LARGE",
+            "type": "UNIVERSAL",
+            "mount": "TURRET",
+            "arc": 240,
+            "angle": 0,
+            "locations": [
+                   52.25,    -0.05
+            ]
+        }
+    ],
+    "engineSlots": [
+        {
+            "location": [
+                -309.36, 0.06
+            ],
+            "length": 20,
+            "width": 8,
+            "angle": 180,
+            "contrailSize": 20,
+            "style": "HIGH_TECH"
+        }
+    ],
+    "bounds": [
+             320,       51,
+             320,      -51,
+             200,      -60,
+             188,      -80,
+              70,      -80,
+        
+              62,      -87,
+             -69,      -93,
+             -67,     -109,
+            -115,     -110,
+            -136,      -98,
+        
+            -181,     -103,
+            -196,      -91,
+            -223,     -100,
+            -249,      -85,
+            -247,      -67,
+        
+            -279,      -61,
+            -287,      -45,
+            -307,      -44,
+            -307,       44,
+            -287,       45,
+        
+            -279,       61,
+            -247,       67,
+            -249,       85,
+            -223,      100,
+            -196,       91,
+        
+            -181,      103,
+            -136,       98,
+            -123,      108,
+             -66,      108,
+             -69,       93,
+        
+              62,       87,
+              70,       80,
+             188,       80,
+             200,       60
+    # 34 points total.
+    ]
+}

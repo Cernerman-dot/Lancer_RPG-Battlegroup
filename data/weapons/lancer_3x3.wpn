@@ -1,0 +1,74 @@
+{
+  "renderHints":[
+    RENDER_BARREL_BELOW
+  ],
+  "renderAboveAllWeapons": 0,
+  "visualRecoil": 15,
+  "hardpointAngleOffsets": [
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0,
+    0
+  ],
+  "hardpointGunSprite": "graphics/weapons/3x3_allbarrels.png",
+  "hardpointOffsets": [
+    65.5,
+    1,
+    66,
+    18.5,
+    51,
+    23,
+    39,
+    13,
+    37,
+    -3.5,
+    65,
+    -15.5,
+    51.5,
+    -10.5,
+    38,
+    -22,
+    52,
+    6.5
+  ],
+  "pierceSet": [
+    PROJECTILE_FF,
+    PROJECTILE_NO_FF,
+    PROJECTILE_FIGHTER,
+    MISSILE_FF,
+    MISSILE_NO_FF
+  ],
+  "pixelsPerTexel": 5,
+  "size": "LARGE",
+  "specClass": "projectile",
+  "turretAngleOffsets": [
+    0
+  ],
+  "projectileSpecId":"gauss_shot",
+  "turretGunSprite": "graphics/weapons/3x3_allbarrels.png",
+  "turretOffsets": [
+    36,
+    0.5
+  ],
+  "muzzleFlashSpec":{"length":100.0,   
+   "spread":5.0,
+   "particleSizeMin":20.0,
+   "particleSizeRange":20.0,
+   "particleDuration":0.25,
+   "particleCount":25,
+   "particleColor":[100,100,255,255]},	
+  "fireSoundTwo": "heavy_mauler_fire",
+  "barrelMode":"ALTERNATING",
+  "turretSprite": "graphics/weapons/3x3_base.png",
+     "hardpointSprite": "graphics/weapons/3x3_base.png",
+  "type": "BALLISTIC",
+  "animationType": "MUZZLE_FLASH",
+  "autocharge": true,
+  "hitGlowRadius": 0,
+  "id": "lancer_3x3",
+}

@@ -1,0 +1,22 @@
+{
+    "displayName": "Default",
+    "fluxCapacitors": 5,
+    "fluxVents": 2,
+    "goalVariant": true,
+    "hullId": "lancer_thoreau",
+    "hullMods": [
+		"targetingunit",
+		"advancedoptics"
+		],
+    "variantId": "lancer_thoreau_default",
+    "weaponGroups": [
+        {
+            "autofire": false,
+            "mode": "LINKED",
+            "weapons": {
+                "WS 001": "lancer_3x3",
+                "WS 002": "amblaster"
+            }
+        }
+    ]
+}
