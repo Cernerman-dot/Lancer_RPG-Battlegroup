@@ -31,6 +31,7 @@
 		},
 		"hulls":{
 			"lancer_caspian_sea":1,
+			"lancer_thoreau":1,
 		},
 	},
 	# ships the faction gets access to when importing S&W out-of-faction
@@ -66,17 +67,14 @@
 			"tempest",
 			"scarab",
 			"hyperion",
-			"afflictor",
-			"shade",
 			
 			"shrike",
 			"medusa",
-			"harbinger",
 			
 			"fury",
 			"aurora",
 			"lancer_caspian_sea",
-			"doom",
+			"lancer_thoreau",
 			
 			"astral",
 			"odyssey",
@@ -89,6 +87,7 @@
 		"tags":[],
 		"hulls":[
 		"lancer_caspian_sea",
+		"lancer_thoreau",
 		],
 	},
 	"knownFighters":{
@@ -165,6 +164,7 @@
 			"heavyneedler",
 			"mjolnir",
 			"multineedler",
+			"mark9",
 		],
 	},
 	"priorityWeapons":{
