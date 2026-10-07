@@ -14,7 +14,7 @@
     "shieldCenter": [
         4.5, 0
     ],
-    "shieldRadius": 336,
+    "shieldRadius": 350,
     "viewOffset": 0,
     "builtInWeapons": {
         "WS 001": "lancer_3x3"

@@ -3,7 +3,7 @@
     RENDER_BARREL_BELOW
   ],
   "renderAboveAllWeapons": 0,
-  "visualRecoil": 7,
+  "visualRecoil": 15,
   "hardpointAngleOffsets": [
     0,
     0,
