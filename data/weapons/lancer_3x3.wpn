@@ -49,7 +49,7 @@
   "turretAngleOffsets": [
     0
   ],
-  "projectileSpecId":"gauss_shot",
+  "projectileSpecId":"lancer_3x3",
   "turretGunSprite": "graphics/weapons/3x3_allbarrels.png",
   "turretOffsets": [
     36,

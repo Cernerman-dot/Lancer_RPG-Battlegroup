@@ -1,5 +1,5 @@
 {
-	"id":"gauss_shot",
+	"id":"lancer_3x3",
 	"specClass":"projectile",
 	"spawnType":"BALLISTIC_AS_BEAM",
 	"collisionClass":"RAY",
